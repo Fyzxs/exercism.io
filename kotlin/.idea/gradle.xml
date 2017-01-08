@@ -22,6 +22,15 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/bob" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/bob" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/etl" />
         <option name="modules">
           <set>
@@ -40,10 +49,28 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/hamming" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/hamming" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/hello-world" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/hello-world" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/isogram" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/isogram" />
           </set>
         </option>
       </GradleProjectSettings>

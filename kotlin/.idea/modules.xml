@@ -8,15 +8,24 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/anagram.iml" filepath="$PROJECT_DIR$/.idea/modules/anagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/anagram_main.iml" filepath="$PROJECT_DIR$/.idea/modules/anagram_main.iml" group="anagram" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/anagram_test.iml" filepath="$PROJECT_DIR$/.idea/modules/anagram_test.iml" group="anagram" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bob.iml" filepath="$PROJECT_DIR$/.idea/modules/bob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bob_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bob_main.iml" group="bob" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bob_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bob_test.iml" group="bob" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/etl.iml" filepath="$PROJECT_DIR$/.idea/modules/etl.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/etl_main.iml" filepath="$PROJECT_DIR$/.idea/modules/etl_main.iml" group="etl" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/etl_test.iml" filepath="$PROJECT_DIR$/.idea/modules/etl_test.iml" group="etl" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gigasecond.iml" filepath="$PROJECT_DIR$/.idea/modules/gigasecond.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gigasecond_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gigasecond_main.iml" group="gigasecond" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/gigasecond_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gigasecond_test.iml" group="gigasecond" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hamming.iml" filepath="$PROJECT_DIR$/.idea/modules/hamming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hamming_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hamming_main.iml" group="hamming" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hamming_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hamming_test.iml" group="hamming" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-world.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-world.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-world_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-world_main.iml" group="hello-world" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-world_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-world_test.iml" group="hello-world" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/isogram.iml" filepath="$PROJECT_DIR$/.idea/modules/isogram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/isogram_main.iml" filepath="$PROJECT_DIR$/.idea/modules/isogram_main.iml" group="isogram" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/isogram_test.iml" filepath="$PROJECT_DIR$/.idea/modules/isogram_test.iml" group="isogram" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pangram.iml" filepath="$PROJECT_DIR$/.idea/modules/pangram.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pangram_main.iml" filepath="$PROJECT_DIR$/.idea/modules/pangram_main.iml" group="pangram" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/pangram_test.iml" filepath="$PROJECT_DIR$/.idea/modules/pangram_test.iml" group="pangram" />
