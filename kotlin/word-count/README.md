@@ -1,6 +1,6 @@
 # Word Count
 
-Write a program that given a phrase can count the occurrences of each word in that phrase.
+Write a program that given a phrase can charCount the occurrences of each word in that phrase.
 
 For example for the input `"olly olly in come free"`
 

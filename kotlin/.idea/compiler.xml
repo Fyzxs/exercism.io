@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="accumulate_main" target="1.8" />
       <module name="accumulate_test" target="1.8" />
+      <module name="anagram_main" target="1.8" />
+      <module name="anagram_test" target="1.8" />
       <module name="etl_main" target="1.8" />
       <module name="etl_test" target="1.8" />
       <module name="gigasecond_main" target="1.8" />

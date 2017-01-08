@@ -1,5 +1,5 @@
 object WordCount {
-    fun  phrase(phrase: String): Map<String, Int> {
+    fun phrase(phrase: String): Map<String, Int> {
         val wordCount = mutableMapOf<String, Int>()
         phrase.split(" ").forEach {
             val word = filterWord(it)

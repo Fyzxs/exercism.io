@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/accumulate.iml" filepath="$PROJECT_DIR$/.idea/modules/accumulate.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/accumulate_main.iml" filepath="$PROJECT_DIR$/.idea/modules/accumulate_main.iml" group="accumulate" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/accumulate_test.iml" filepath="$PROJECT_DIR$/.idea/modules/accumulate_test.iml" group="accumulate" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/anagram.iml" filepath="$PROJECT_DIR$/.idea/modules/anagram.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/anagram_main.iml" filepath="$PROJECT_DIR$/.idea/modules/anagram_main.iml" group="anagram" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/anagram_test.iml" filepath="$PROJECT_DIR$/.idea/modules/anagram_test.iml" group="anagram" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/etl.iml" filepath="$PROJECT_DIR$/.idea/modules/etl.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/etl_main.iml" filepath="$PROJECT_DIR$/.idea/modules/etl_main.iml" group="etl" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/etl_test.iml" filepath="$PROJECT_DIR$/.idea/modules/etl_test.iml" group="etl" />
