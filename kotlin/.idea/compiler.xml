@@ -2,14 +2,20 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <bytecodeTargetLevel>
+      <module name="accumulate_main" target="1.8" />
+      <module name="accumulate_test" target="1.8" />
       <module name="etl_main" target="1.8" />
       <module name="etl_test" target="1.8" />
       <module name="gigasecond_main" target="1.8" />
       <module name="gigasecond_test" target="1.8" />
       <module name="hello-world_main" target="1.8" />
       <module name="hello-world_test" target="1.8" />
+      <module name="pangram_main" target="1.8" />
+      <module name="pangram_test" target="1.8" />
       <module name="rna-transcription_main" target="1.8" />
       <module name="rna-transcription_test" target="1.8" />
+      <module name="word-count_main" target="1.8" />
+      <module name="word-count_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -4,6 +4,15 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/accumulate" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/accumulate" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/etl" />
         <option name="modules">
           <set>
@@ -31,10 +40,28 @@
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/pangram" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/pangram" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$/rna-transcription" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$/rna-transcription" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/word-count" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/word-count" />
           </set>
         </option>
       </GradleProjectSettings>
